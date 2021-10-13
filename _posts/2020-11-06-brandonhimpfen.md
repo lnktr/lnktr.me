@@ -1,8 +1,8 @@
 ---	
 title: Brandon Himpfen	
 layout: post	
-bg-img: https://d26wv4l1vtfujo.cloudfront.net/posts/brandonhimpfen.jpg
-profile-pic: https://pbs.twimg.com/profile_images/1361709295960735754/CyGWb3XW_400x400.jpg	
+bg-img: https://static.lnktr.net/wallpapers/wallpaper-01.jpg
+profile-pic: https://pbs.twimg.com/profile_images/1440411090567843847/dm3zmPF9_400x400.jpg	
 ---	
 
   <div class="links">	
