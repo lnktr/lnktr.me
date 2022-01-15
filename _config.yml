@@ -1,7 +1,7 @@
 title: LNKTR.ME
 description: The Only Link You’ll Ever Need
 google_analytics: UA-39342544-37
-fathom_analytics:
+plausible_analytics: lnktr.me
 include:
  - _posts
  - _pages
